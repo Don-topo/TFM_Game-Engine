@@ -1,0 +1,5 @@
+C:\Users\ruben\Documents\UOC\TFM\TFM_Game-Engine\Initium\GameEngineEditor\bin\Release\net8.0-windows\GameEngineEditor.exe
+C:\Users\ruben\Documents\UOC\TFM\TFM_Game-Engine\Initium\GameEngineEditor\bin\Release\net8.0-windows\GameEngineEditor.deps.json
+C:\Users\ruben\Documents\UOC\TFM\TFM_Game-Engine\Initium\GameEngineEditor\bin\Release\net8.0-windows\GameEngineEditor.runtimeconfig.json
+C:\Users\ruben\Documents\UOC\TFM\TFM_Game-Engine\Initium\GameEngineEditor\bin\Release\net8.0-windows\GameEngineEditor.dll
+C:\Users\ruben\Documents\UOC\TFM\TFM_Game-Engine\Initium\GameEngineEditor\bin\Release\net8.0-windows\GameEngineEditor.pdb
